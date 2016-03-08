@@ -1,4 +1,4 @@
-# any_song_fft_light_controller
+# any_song_light_controller
 Send any song to a Pi, analyze the frequency spectrum, and control light strips.
 
 This project goes with a walkthrough on my website...
